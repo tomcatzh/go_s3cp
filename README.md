@@ -15,6 +15,6 @@
 To install `go_s3cp`, you can clone the repository and build it using Go.
 
 ```bash
-git clone https://github.com/your-github-username/go_s3cp.git
+git clone https://github.com/tomcatzh/go_s3cp.git
 cd go_s3cp
 go build
